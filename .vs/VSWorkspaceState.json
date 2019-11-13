@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MovieShop.API",
+    "\\MovieShop.API\\Controllers",
+    "\\MovieShop.API\\DTO",
+    "\\MovieShop.Entities"
+  ],
+  "SelectedNode": "\\MovieShop.API\\Controllers\\UserController.cs",
+  "PreviewInSolutionExplorer": false
+}
