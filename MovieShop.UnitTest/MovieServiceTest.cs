@@ -10,18 +10,22 @@ namespace MovieShop.UnitTest
         {
             Assert.AreEqual(1, 1);
         }
+        [TestMethod]
         public void TestMovieFromFakeDta2()
         {
             Assert.AreEqual(1, 1);
         }
+        [TestMethod]
         public void TestMovieFromFakeDta3()
         {
             Assert.AreEqual(1, 1);
         }
+        [TestMethod]
         public void TestMovieFromFakeDta4()
         {
             Assert.AreEqual(1, 1);
         }
+        [TestMethod]
         public void TestMovieFromFakeDta5()
         {
             Assert.AreEqual(1, 1);
