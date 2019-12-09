@@ -4,8 +4,8 @@
     "\\MovieShop.API",
     "\\MovieShop.API\\Controllers",
     "\\MovieShop.API\\DTO",
-    "\\MovieShop.Entities"
+    "\\MovieShop.Services"
   ],
-  "SelectedNode": "\\MovieShop.API\\Controllers\\UserController.cs",
+  "SelectedNode": "\\MovieShop.Services\\UserService.cs",
   "PreviewInSolutionExplorer": false
 }

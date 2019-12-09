@@ -1,11 +1,11 @@
 C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Data.deps.json
 C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Data.dll
+C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Data.pdb
+C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Entities.dll
+C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Entities.pdb
 C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.csprojAssemblyReference.cache
 C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.AssemblyInfoInputs.cache
 C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.AssemblyInfo.cs
-C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Entities.dll
-C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Data.pdb
-C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\bin\Debug\netstandard2.1\MovieShop.Entities.pdb
 C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.csproj.CopyComplete
 C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.dll
 C:\Users\liuting\source\repos\Core\MovieShop.API\MovieShop.Data\obj\Debug\netstandard2.1\MovieShop.Data.pdb
